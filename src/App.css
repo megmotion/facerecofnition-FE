@@ -40,3 +40,6 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+.p.f3.link.dim.black.underline.pa3.pointer{
+  underline:none;
+}
